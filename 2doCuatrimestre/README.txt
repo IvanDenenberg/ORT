@@ -1,0 +1,1 @@
+Este es el repo donde voy a subir todos los ejercicios del 2do Cuatri de Programacion I y Taller de Programacion I
